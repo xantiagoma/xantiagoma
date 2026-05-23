@@ -15,7 +15,7 @@
 <center>
 <table align="center">
   <tr>
-    <td colspan="8" align="left">
+    <td colspan="8" align="center">
       <center>
         <a href="https://xantiagoma.com" target="_blank" style="text-decoration: none;">🌐 xantiagoma.com</a>
       </center>
