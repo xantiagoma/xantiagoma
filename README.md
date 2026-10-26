@@ -22,12 +22,13 @@
 
 #### 📦 xtandard
 
-A family of lightweight, type-safe TypeScript libraries.
+A family of lightweight, type-safe, self-hostable libraries and services.
 
 - [**@xtandard/lib**](https://github.com/xantiagoma/xtandard): A lightweight, type-safe TypeScript standard library
 - [**@xtandard/flags**](https://github.com/xantiagoma/xtandard-flags): Self-hosted, OpenFeature-compatible feature flags with pluggable storage
 - [**@xtandard/webhooks**](https://github.com/xantiagoma/xtandard-webhooks): Standard Webhooks-compliant outbound webhooks, a Svix alternative as a library
 - [**@xtandard/xyte**](https://github.com/xantiagoma/xyte): Zyte API-compatible `/v1/extract` client and server that runs on any proxy provider
+- [**xtandard-image**](https://github.com/xantiagoma/xtandard-image): Self-hosted image and video processing server (Go + libvips) with imgproxy-compatible URLs and imgix, Cloudinary, ImageKit, Cloudflare and Thumbor dialects · [docs](https://me.xantiagoma.com/xtandard-image/)
 
 #### 🧰 More
 
