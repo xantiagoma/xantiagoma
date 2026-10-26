@@ -32,6 +32,7 @@ A family of lightweight, type-safe, self-hostable libraries and services.
 
 #### 🧰 More
 
+- [**casatube**](https://github.com/xantiagoma/casatube): Self-hosted media downloader with a durable job queue, yt-dlp and ffmpeg in one image, and correctly named and tagged files · [docs](https://me.xantiagoma.com/casatube/)
 - [**drizzle-audit**](https://github.com/xantiagoma/drizzle-audit): Configurable audit logging for Drizzle ORM
 - [**@xantiagoma/dokploy**](https://github.com/xantiagoma/dokploy-deploy): Declarative IaC for Dokploy (typed API client, Pulumi provider, SST components and CLI)
 - [**dateconvert**](https://github.com/xantiagoma/dateconvert): Parse a date across timezones · [site](https://dateconvert.vercel.app)
