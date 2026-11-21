@@ -24,10 +24,13 @@
 
 A family of lightweight, type-safe, self-hostable libraries and services.
 
-- [**@xtandard/lib**](https://github.com/xantiagoma/xtandard): A lightweight, type-safe TypeScript standard library
-- [**@xtandard/flags**](https://github.com/xantiagoma/xtandard-flags): Self-hosted, OpenFeature-compatible feature flags with pluggable storage
-- [**@xtandard/webhooks**](https://github.com/xantiagoma/xtandard-webhooks): Standard Webhooks-compliant outbound webhooks, a Svix alternative as a library
-- [**@xtandard/xyte**](https://github.com/xantiagoma/xyte): Zyte API-compatible `/v1/extract` client and server that runs on any proxy provider
+- [**@xtandard/lib**](https://github.com/xantiagoma/xtandard): A lightweight, type-safe TypeScript standard library · [docs](https://me.xantiagoma.com/xtandard/)
+- [**@xtandard/flags**](https://github.com/xantiagoma/xtandard-flags): Self-hosted, OpenFeature-compatible feature flags with pluggable storage · [docs](https://me.xantiagoma.com/xtandard-flags/)
+- [**@xtandard/webhooks**](https://github.com/xantiagoma/xtandard-webhooks): Standard Webhooks-compliant outbound webhooks, a Svix alternative as a library · [docs](https://me.xantiagoma.com/xtandard-webhooks/)
+- [**@xtandard/audit**](https://github.com/xantiagoma/xtandard-audit): Tamper-evident audit logs for B2B SaaS, a WorkOS Audit Logs alternative as a library (hash chain, signed checkpoints and a customer portal) · [docs](https://me.xantiagoma.com/xtandard-audit/)
+- [**@xtandard/links**](https://github.com/xantiagoma/xtandard-links): Branded short links with click analytics, conversion attribution and deep links, a Dub / Bitly alternative as a library · [docs](https://me.xantiagoma.com/xtandard-links/)
+- [**@xtandard/entitlements**](https://github.com/xantiagoma/xtandard-entitlements): Plans, entitlements and usage metering for TypeScript (typed catalog, atomic metering, any billing provider) · [docs](https://me.xantiagoma.com/xtandard-entitlements/)
+- [**@xtandard/xyte**](https://github.com/xantiagoma/xyte): Zyte API-compatible `/v1/extract` client and server that runs on any proxy provider · [docs](https://me.xantiagoma.com/xyte/)
 - [**xtandard-image**](https://github.com/xantiagoma/xtandard-image): Self-hosted image and video processing server (Go + libvips) with imgproxy-compatible URLs and imgix, Cloudinary, ImageKit, Cloudflare and Thumbor dialects · [docs](https://me.xantiagoma.com/xtandard-image/)
 
 #### 🧰 More
